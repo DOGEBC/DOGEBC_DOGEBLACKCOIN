@@ -47,29 +47,25 @@ http://explorer.x11-x13-pool.org:3004/
 
 POOLS
 
+http://x11-x13-pool.org/dogeblackcoin
+
+https://becausepool.com/index.php?coin=dogebc
+
 http://dogebc.hashlink.eu/
 
-http://x11-x13-pool.org/dogeblackcoin
+http://ispace.co.uk/
+
+www.7000pool.com P2POOL
 
 https://dogebc.coin-miners.info/
 
 http://www.goldmin.es/ P2POOL
 
-http://dogebc.uuzcloud.com
-
-http://dogebc.8pool.dtdns.net/
-
-www.7000pool.com P2POOL
-
-http://ispace.co.uk/
-
-https://becausepool.com/index.php?coin=dogebc
-
-https://dogebc.minerpools.com
-
-http://www.hasher.ca/ P2POOL
+http://www.hasher.ca/
 
 http://188.165.68.16/index.php
+
+https://dogebc.minerpools.com
 
 
 GAME
