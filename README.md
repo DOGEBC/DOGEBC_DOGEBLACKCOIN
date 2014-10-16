@@ -67,6 +67,17 @@ http://188.165.68.16/index.php
 
 https://dogebc.minerpools.com
 
+WALLET
+
+WINDOWS http://dogeblackcoin.info/DOGEBC_WINDOWS.rar
+
+SRC MASTER http://dogeblackcoin.info/DOGEBC-SRC-linux.rar
+
+GITHUB https://github.com/DOGEBC/DOGEBC_DOGEBLACKCOIN
+
+MAC http://dogeblackcoin.info/DOGEBC_MAC.rar
+
+LinuX http://dogeblackcoin.info/DOGEBC%20LINUX.rar
 
 GAME
 
@@ -75,7 +86,6 @@ http://dogebc.dice.cryptospot.me/
 OTHER SERVICES
 
 http://cryptos.us/crypto-news/item/54-dogeblack-sha256-graphic-services-and-more
-
 
 
 HAPPY MINING
