@@ -1,5 +1,7 @@
 POD DOGEBC
 
+http://proofofdev.com/dogebc-dogeblackcoin-ppcd-peercoindark/
+
 
 ﻿DOGEBLACK is a Decentralized peer-to-peer digital currency algo SHA256. Which is a project of aims is fulfill the original ideas of people who like to play digital money 
 and above all to the ensure anonymity on the web, and quickly send payments between users, Total coins DOGEBC is 400 million, Coinbase maturity Very Fast 1 blocks,
@@ -47,6 +49,8 @@ RPC port 21090
 BLOCK EXPLORER
 
 http://explorer.x11-x13-pool.org:3004/
+
+http://cryptobe.com/chain/DogeBlackCoin
 
 POOLS
 
