@@ -47,25 +47,32 @@ http://explorer.x11-x13-pool.org:3004/
 
 POOLS
 
+http://dogebc.hashlink.eu/
+
+https://dogebc.minerpools.com/
+
 http://x11-x13-pool.org/dogeblackcoin
 
 https://becausepool.com/index.php?coin=dogebc
 
-http://dogebc.hashlink.eu/
+http://dogebc.coin-miners.info/
 
 http://ispace.co.uk/
 
-www.7000pool.com P2POOL
-
-https://dogebc.coin-miners.info/
-
 http://www.goldmin.es/ P2POOL
 
-http://www.hasher.ca/
+http://www.hasher.ca/ P2POOL
 
-http://188.165.68.16/index.php
+www.7000pool.com P2POOL
 
-https://dogebc.minerpools.com
+http://miningpools.tk P2POOL
+
+http://dogeb.uuzcloud.com/
+
+http://btcpool.club/
+
+http://dogeblackcoin.cointech.net/
+
 
 WALLET
 
@@ -85,7 +92,31 @@ http://dogebc.dice.cryptospot.me/
 
 OTHER SERVICES
 
+http://coinmarketcap.com/currencies/dogeblackcoin/#markets
+
 http://cryptos.us/crypto-news/item/54-dogeblack-sha256-graphic-services-and-more
+
+www.whitepuma.net
+
+http://btcbins.com/Home.aspx
+
+https://www.cryptonator.com/rates/DOGEB-BTC
+
+
+
+EXCHANGE
+
+https://c-cex.com/?p=dogeb-btc
+
+https://vaultex.io/market/25
+
+https://coin-swap.net/market/DOGEBC/BTC
+
+VOTE
+
+Cryptsy DOGEBC
+
+https://www.cryptsy.com/coinvotes
 
 
 HAPPY MINING
