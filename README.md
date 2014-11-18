@@ -1,3 +1,6 @@
+POD DOGEBC
+
+
 ﻿DOGEBLACK is a Decentralized peer-to-peer digital currency algo SHA256. Which is a project of aims is fulfill the original ideas of people who like to play digital money 
 and above all to the ensure anonymity on the web, and quickly send payments between users, Total coins DOGEBC is 400 million, Coinbase maturity Very Fast 1 blocks,
 block DOGEBC 10,000 reward, prize unit will be reduced by half from 20000 block. We are still working on the expansion of coins and the strive is That gained a lot of publicity 
